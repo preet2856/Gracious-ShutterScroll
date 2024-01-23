@@ -1,11 +1,11 @@
 @font-face {
 	font-family: founder;
-	src: url(FoundersGroteskCondensed-Bold.woff2);
+	src: url(./FoundersGroteskCondensed-Bold.woff2);
 }
 
 @font-face {
 	font-family: cardinalr;
-	src: url(cardinalfruitweb-regular.woff2);
+	src: url(./cardinalfruitweb-regular.woff2);
 }
 
 * {
@@ -81,7 +81,7 @@ body {
 }
 
 #top-h1 {
-	bottom: 46%;
+	bottom: 45%;
 }
 
 #bottom-h1 {
